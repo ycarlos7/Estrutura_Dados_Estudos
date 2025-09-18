@@ -1,0 +1,15 @@
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\bin\Debug\net9.0\Atividade_2.exe
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\bin\Debug\net9.0\Atividade_2.deps.json
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\bin\Debug\net9.0\Atividade_2.runtimeconfig.json
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\bin\Debug\net9.0\Atividade_2.dll
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\bin\Debug\net9.0\Atividade_2.pdb
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\obj\Debug\net9.0\Atividade_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\obj\Debug\net9.0\Atividade_2.AssemblyInfoInputs.cache
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\obj\Debug\net9.0\Atividade_2.AssemblyInfo.cs
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\obj\Debug\net9.0\Atividade_2.csproj.CoreCompileInputs.cache
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\obj\Debug\net9.0\Atividade_2.sourcelink.json
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\obj\Debug\net9.0\Atividade_2.dll
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\obj\Debug\net9.0\refint\Atividade_2.dll
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\obj\Debug\net9.0\Atividade_2.pdb
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\obj\Debug\net9.0\Atividade_2.genruntimeconfig.cache
+C:\Users\ycarl\Documents\Estrutura_Dados_Estudos\Atividade_2\obj\Debug\net9.0\ref\Atividade_2.dll
